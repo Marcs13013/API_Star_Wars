@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "apiStarwas",
-    "slug": "apiStarwas",
+    "name": "ApiStarWas",
+    "slug": "ApiStarWas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
